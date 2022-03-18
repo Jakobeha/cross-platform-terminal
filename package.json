@@ -1,7 +1,7 @@
 {
   "name": "@raycenity/cross-platform-terminal",
   "version": "0.1.0",
-  "description": "emulates a lightweight terminal in the browser, actual terminal integration in the command line",
+  "description": "emulates a lightweight terminal in the browser, facade for the actual terminal in node.js",
   "type": "module",
   "main": "out/src/index-cjs.js",
   "module": "out/src/index.js",
